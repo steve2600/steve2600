@@ -2,9 +2,7 @@
 <h1 align="center">Hi, I'm Steve Sunny Subhash</h1>
 <h3 align="center">NLP · RAG Systems · Data Engineering | B.Tech CSE @ VIT Vellore</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=Building+intelligent+systems+that+ship+fast+and+scale+faster;RAG+Pipelines+·+LLM+Fine-tuning+·+Clinical+NLP;Top+75+Nationally+%40+Bajaj+HackerX+2025+🏆" alt="typing-animation"/>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/steve-sunny-subhash-850951317" target="_blank">
